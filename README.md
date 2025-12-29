@@ -1,4 +1,5 @@
 <p align="center" >
+  内网穿透，自带免费域名，公网访问
 <img width="540px" src="https://repository-images.githubusercontent.com/249120770/7ea6d180-b4ba-11ea-96ab-6c3b987aac9d" align="center"/>
 </p>
 
